@@ -9,7 +9,7 @@ a = arduino();
 voltage = 5;
 resistance = 1000;
 toohigh = 750;
-toolow = 300;
+toolow = 200;
 Time = []; tic();
 LightMeasurement = [];
 
